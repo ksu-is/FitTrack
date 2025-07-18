@@ -1,3 +1,4 @@
+# Added docstrings and comments for clarity
 # tracker.py
 # Main file for Fitness Nutrition Tracker
 
