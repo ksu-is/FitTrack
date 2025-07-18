@@ -12,3 +12,6 @@ if __name__ == "__main__":
     print("Welcome to Fitness Nutrition Tracker")
     log_workout("Running", 30)
     log_meal("Chicken Salad", 450)
+
+log_workout("Yoga", 60)
+log_meal("Oatmeal", 300)
