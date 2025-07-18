@@ -8,7 +8,15 @@
 - [x] Updated projectroadmap.md     
 
 # Sprint 2:
-- [ ] Make small updates and commit messages in repository.    
+- [x] Make small updates and commit messages in repository.
+- [x]  Create tracker.py with basic functions
+- [x] Create user_data.py
+- [x] Add docstrings and comments to tracker.py
+- [ ] Test tracker.py with sample data - IN PROGRESS
+
+## Emerging Tasks
+- [ ] Add persistent storage (e.g., save to file)
+- [ ] Build simple command-line interface    
 
 # Sprint 3:
 - [ ] Create slide presentation.
